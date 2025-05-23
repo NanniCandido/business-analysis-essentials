@@ -1,0 +1,18 @@
+Stakeholder Mapping and Requirements Gathering (in-class activity) - Elaine, Yulianna, and Doaa
+
+E-commerce Retailer: GlobalShop is an e-commerce platform that connects consumers with a wide range of products. CEO Fatima Al-Mansouri leads the company, working with suppliers like Global Goods to offer diverse merchandise. Operations Manager David Wu and Customer Service Lead Priya Gupta ensure a seamless shopping experience, while Logistics Partner FastTrack Shipping handles distribution. The company also engages with environmental watchdogs like EcoGuardians to maintain sustainable practices.
+
+1 - Stakeholder mapping: map the stakeholders based on their influence and interest in the company’s project.
+
+	- CEO Fatima Al-Mansouri, Operations Manager David Wu, Customer Service Lead Priya Gupta, Logistics Partner FastTrack Shipping, Global Goods, and EcoGuardians.
+
+
+2 - Requirements Gathering: once the stakeholder map is complete, discuss and list potential requirements from each stakeholder’s perspective. Consider business needs, user requirements, and system requirements.
+
+	- CEO Fatima Al-Mansouri: increase profit 
+	  Operations Manager David Wu: increase sales
+	  Customer Service Lead Priya Gupta: efficiency 
+	  Logistics Partner FastTrack Shipping: increase shipping, reliability
+	  Global Goods: continued patronage
+	  EcoGuardians: uphold standards
+
