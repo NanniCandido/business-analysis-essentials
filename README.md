@@ -65,4 +65,10 @@ These exercises reinforced our ability to apply industry-standard practices in d
 
 ---
 
+## 📫 Contact
+
+Elaine C. da Silva  
+✉️ [nannicandido@gmail.com](mailto:nannicandido@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/elaine-da-silva-candido/)
+
 
